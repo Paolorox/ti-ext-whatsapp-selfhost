@@ -8,9 +8,6 @@
 
 The **WhatsApp Integration** extension for TastyIgniter allows you to send automated WhatsApp messages on critical events like order placements, status updates, and reservations. 
 
-> [!TIP]
-> **Don't want to host your own OpenWA server?**  
-> We offer a **Premium Hosted Version** of this extension on the TastyIgniter Marketplace! It comes pre-configured to run on our high-availability API servers, so you don't have to install, host, or maintain your own OpenWA backend. Simply purchase a subscription, scan your QR code, and start sending messages instantly.
 
 By integrating with a self-hosted **OpenWA (WhatsApp Automate)** server API, this free version ensures quick, cost-effective, and fully customizable messaging directly to your customers' and staff's mobile phones.
 
