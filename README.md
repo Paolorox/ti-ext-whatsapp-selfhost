@@ -24,7 +24,7 @@ By integrating with a self-hosted **OpenWA (WhatsApp Automate)** server API, thi
 Ensure your setup meets the following requirements:
 - **TastyIgniter**: `^4.0`
 - **Automation Extension** (`tastyigniter/ti-ext-automation`): `^4.0`
-- A running, self-hosted instance of the [OpenWA API](https://github.com/open-wa/wa-automate-nodejs).
+- A running, self-hosted instance of the [OpenWA API](https://github.com/rmyndharis/OpenWA).
 
 ## Installation
 
